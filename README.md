@@ -6,14 +6,15 @@
 
 ### Authors: Md. Maklachur Rahman and Soon Ki Jung
 
-#### Tracker comparison on challenging attributes
-##### [Success Plots]
-![example](./results/success100_challenges.jpg)
+#### Section 4. Experimental analysis and results
 
-##### [Precision Plots]
-![example](./results/precision100_challenges.jpg)
+##### Figure 11. Compared trackers’ performance on the challenging attributes of OTB100 benchmark in terms of precision plots.
+![example](./result_comparison/precision100_challenges.jpg)
 
-#### Qualitative performance on challenging sequences
+##### Figure 12. Compared trackers’ performance on the challenging attributes of OTB100 benchmark in terms of success plots.
+![example](./result_comparison/success100_challenges.jpg)
 
-![example](./results/qualative_results.jpg)
+#### Figure 13. The qualitative comparison results among trackers over several challenging sequences (carScale, liquor,motorRolling, skating2-2, and soccer) from OTB100 benchmark.
+
+![example](./result_comparison/qualitative_comparison.jpg)
 
